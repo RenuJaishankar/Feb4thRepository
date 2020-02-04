@@ -9,7 +9,11 @@
     background-color:#EE4B6A;
     color:white;
 }
-
+.display-3{
+    font-family:Courgette;
+    background-image:url("Resources/flowerbackground.jpg") ;
+    color:purple;
+     }
 .imgc{
     width:30%;
     height:30%;
@@ -18,6 +22,7 @@
 }
 .magenta{
      background-color:rgb(161,74,118) !important;
+    
      color:white;
 }
 @media(max-width:500px){
