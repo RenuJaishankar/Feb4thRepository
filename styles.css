@@ -5,6 +5,10 @@
 .p1{
     background:#DB5ABA;
 }
+
+.p2{
+    font-size:2em;
+}
 .pink{
     background-color:#EE4B6A;
     color:white;
@@ -42,4 +46,6 @@
     color:white;
     background-color:blueviolet;
     text-align:center;
+    font-size:2em;
 }
+
